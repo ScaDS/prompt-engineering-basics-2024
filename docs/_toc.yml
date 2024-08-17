@@ -7,12 +7,12 @@ root: intro
 parts:
   - caption: Exercises
     chapters:
-  - file: 10_prompting.ipynb
-  - file: 20_use_cases.ipynb
-  - file: 30_prompt_engineering.ipynb
-  - file: 40_code_generation.ipynb
-  - file: 50_data_analysis.ipynb
-  - file: 60_bio-image-analysis.ipynb
+    - file: 10_prompting.ipynb
+    - file: 20_use_cases.ipynb
+    - file: 30_prompt_engineering.ipynb
+    - file: 40_code_generation.ipynb
+    - file: 50_data_analysis.ipynb
+    - file: 60_bio-image-analysis.ipynb
   
   - caption: Links
     chapters:
